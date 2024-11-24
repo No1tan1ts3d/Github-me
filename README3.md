@@ -1,5 +1,5 @@
 # Bonjour👋, Manjil here:
-align="center" A quick learner technophile with fond of arts and aspiring creative.
+A quick learner technophile with fond of arts and aspiring creative.
 
 
 # 💻 :
